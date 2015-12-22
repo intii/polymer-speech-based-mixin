@@ -1,1 +1,1 @@
-# polymer-speech-based-mixin
+[WIP] An extension for Polymer to provide speech recognition and easy interaction.

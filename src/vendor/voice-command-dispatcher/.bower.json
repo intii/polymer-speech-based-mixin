@@ -1,0 +1,32 @@
+{
+  "name": "voice-command-dispatcher",
+  "homepage": "https://github.com/intii/wit-thesis",
+  "authors": [
+    "Inti Piolanti",
+    "Nicolas Nistal"
+  ],
+  "description": "An intermediary channel in charge of listening to voice commands and delivering answers",
+  "keywords": [
+    "wit",
+    "voice",
+    "dispatcher",
+    "accessibility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "50bde133a6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "50bde133a607d3047b9d7d03a4b1a9fb44a75e09"
+  },
+  "_source": "git://github.com/intii/voice-command-dispatcher.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/intii/voice-command-dispatcher.git"
+}
